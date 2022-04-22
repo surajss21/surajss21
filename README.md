@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surajss21
 - 👀 I’m interested in Algorithms, Machine Learning & Data Science.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me surajsss198@gmail.com
 
